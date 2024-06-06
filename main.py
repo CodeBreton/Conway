@@ -101,4 +101,4 @@ def Game(longueur, largeur, taille_case):
     pygame.quit()
 
 # Lancement du jeu avec une grille de 50x50 cases de taille 20 pixels chacune
-Game(50, 50, 20)
+Game(50, 50, 10)
