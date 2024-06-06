@@ -77,4 +77,4 @@ def affichage(taille,pourcentage,temps):
 
 if __name__ == '__main__':
     # Affiche une simulation de feu de forêt dans une grille de 10 cases de côté, avec une probabilité d'appartition d'arbres de 55.5% et de 0.1 secondes de rafraîchissement
-    affichage(13,55.5,0.1)
+    affichage(20,55.5,0.1)
