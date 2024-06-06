@@ -75,7 +75,6 @@ def Game(longueur, largeur, taille_case):
 
     grille = generer_grille(longueur, largeur)
 
-    # Insère un motif "Glider" dans la grille pour démonstration
     inserer_cellule(grille, 10, 10)
     inserer_cellule(grille, 9, 10)
     inserer_cellule(grille, 11, 10)
